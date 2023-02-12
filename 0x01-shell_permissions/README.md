@@ -1,1 +1,1 @@
-gives permission to everybody
+readme
