@@ -1,1 +1,1 @@
-ls -a displays all files including hidden
+display userid groupid and hidden files in long format
