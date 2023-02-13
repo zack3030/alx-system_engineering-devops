@@ -1,1 +1,1 @@
-pwd is use to print the current working directory
+The ls is use to display the content list of a directory
