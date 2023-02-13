@@ -1,1 +1,1 @@
-moving files with mv
+deleting a file
