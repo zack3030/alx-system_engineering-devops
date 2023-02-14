@@ -1,1 +1,1 @@
-this script displays the last 10 lines
+script to display first 10 lines
