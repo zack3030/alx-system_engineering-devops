@@ -1,1 +1,1 @@
-display lines that dont contain bin
+display all lines of the files starting with a letter
