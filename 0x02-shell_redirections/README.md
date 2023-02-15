@@ -1,1 +1,1 @@
-display all lines of the files starting with a letter
+Replace a,c with z,e respectively
