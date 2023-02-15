@@ -1,1 +1,1 @@
-Replace a,c with z,e respectively
+script that remove c and C from input
