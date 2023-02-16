@@ -1,1 +1,1 @@
-converts from base 2 to 10
+prints combination of two letters except oo
