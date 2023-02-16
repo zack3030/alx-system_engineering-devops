@@ -1,1 +1,1 @@
-prints combination of two letters except oo
+print float numbers
