@@ -1,1 +1,1 @@
-display the result of breath to the power love
+converts from base 2 to 10
