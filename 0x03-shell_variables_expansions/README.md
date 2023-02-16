@@ -1,1 +1,1 @@
-script that creates an alias
+script to print current user
