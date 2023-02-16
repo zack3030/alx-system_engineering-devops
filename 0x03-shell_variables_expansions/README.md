@@ -1,1 +1,1 @@
-script to print current user
+adding new path
